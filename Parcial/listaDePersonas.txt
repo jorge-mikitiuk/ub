@@ -1,0 +1,4 @@
+Juan,Perez,23,MASCULINO
+Marcos,Acuña,37,MASCULINO
+Victoria,Paz,45,FEMENINO
+Ángel,Perales,87,MASCULINO
