@@ -1,0 +1,7 @@
+LACTEOS		|	Leche		|	 23.48 
+LACTEOS 	|	Yogurt		|	 25.12
+LACTEOS 	|	Crema		|	 53.76
+CARNES		|	Vacio		|	180.00
+CARNES		|	Pollo		|	125.00
+VERDURAS	|	Repollo		|	 37.00
+VERDURAS	|	Zanahoria	|	 43.00
